@@ -5,9 +5,9 @@
     "passes": 0,
     "pending": 0,
     "failures": 1,
-    "start": "2024-11-29T11:42:54.501Z",
-    "end": "2024-11-29T11:43:38.048Z",
-    "duration": 43547
+    "start": "2024-11-29T15:56:08.249Z",
+    "end": "2024-11-29T15:57:17.371Z",
+    "duration": 69122
   },
   "tests": [],
   "pending": [],
@@ -15,7 +15,7 @@
     {
       "title": "\"before all\" hook",
       "fullTitle": "\"before all\" hook",
-      "duration": 43523,
+      "duration": 69078,
       "currentRetry": 0,
       "err": {
         "stack": "Error: Timeout of 5000ms exceeded. For async tests and hooks, ensure \"done()\" is called; if returning a Promise, ensure it resolves.\n    at Object.done (node_modules/mocha-jsdom/index.js:70:7)\n    at /mnt/c/Users/wanji/phase-1-javascript-variables-lab/node_modules/jsdom/lib/jsdom.js:312:18\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)",
